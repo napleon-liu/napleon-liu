@@ -11,12 +11,7 @@ I work on efficient infrastructure for large language models, especially systems
 My current interests include:
 
 - LLM inference and serving systems
-- Distributed training and communication
-- Mixture-of-Experts models
-- Expert parallelism and routing
 - GPU kernel optimization
-- CUDA / Triton / TileLang programming
-- Efficient infrastructure for open models
 
 ---
 
@@ -42,10 +37,7 @@ My current interests include:
 ## Research Interests
 
 - AI Infrastructure
-- LLM Systems
-- LLM Inference
-- Distributed Training
-- Mixture-of-Experts
+- LLM Serving Systems
 - CUDA Kernel Optimization
 - High-Performance Computing
 
