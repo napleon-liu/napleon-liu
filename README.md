@@ -1,6 +1,6 @@
 # Yao Liu
 
-Building efficient systems for large language models, with a focus on inference, distributed training, MoE, and GPU kernel optimization.
+I am interested in AI Infra, including Inference Speedup and RL Infrastrure.
 
 ---
 
